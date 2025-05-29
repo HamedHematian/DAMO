@@ -1,5 +1,5 @@
-from vcd_utils.vcd_sample import evolve_vcd_sampling
-evolve_vcd_sampling()
+# from vcd_utils.vcd_sample import evolve_vcd_sampling
+# evolve_vcd_sampling()
 from llava.model.builder import load_pretrained_model
 from llava.mm_utils import get_model_name_from_path
 from llava.eval.run_llava import eval_model
